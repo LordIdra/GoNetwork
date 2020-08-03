@@ -1,3 +1,0 @@
-To run main.go, download both train and test datasets from
-https://pjreddie.com/projects/mnist-in-csv/
-and drop them into /datasets
